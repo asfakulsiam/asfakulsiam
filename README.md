@@ -79,11 +79,11 @@ I am a seasoned MERN stack developer with a solid grasp of TypeScript and Next.j
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
             width="36" height="36" alt="Redux" />
     </a>
+    <br>
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
             width="36" height="36" alt="Webpack" />
     </a>
-    <br>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
             width="36" height="36" alt="Vite" />
@@ -148,7 +148,7 @@ I am a seasoned MERN stack developer with a solid grasp of TypeScript and Next.j
 
   ### Socials
 
-  <p align="center">
+  <p align="left">
     <a href="https://www.dev.to/asfakulsiam" target="_blank" rel="noreferrer">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="
