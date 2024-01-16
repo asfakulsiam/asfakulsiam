@@ -187,17 +187,6 @@ I am a seasoned MERN stack developer with a solid grasp of TypeScript and Next.j
           width="32" height="32" />
       </picture>
     </a>
-    <a href="http://www.instagram.com/asfakul_siam" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-        <source media="(prefers-color-scheme: light)" srcset="
-              https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg
-            " />
-        <img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-          width="32" height="32" />
-      </picture>
-    </a>
     <a href="https://www.linkedin.com/in/asfakulislamsiam" target="_blank" rel="noreferrer">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="
@@ -257,7 +246,7 @@ I am a seasoned MERN stack developer with a solid grasp of TypeScript and Next.j
   ### Support
 
   <ul style="list-style: none; margin: 0">
-    <li style="display: inline-block; margin-right: 0.25rem; list-style: none">
+    <li style="display: inline-block; margin-right: 0.25rem; list-style: none;">
       <a href="https://www.buymeacoffee.com/asfakulsiam"><img
           src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
     </li>
